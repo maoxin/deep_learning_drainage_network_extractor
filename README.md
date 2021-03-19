@@ -20,7 +20,7 @@ This is a deep learning-enhanced framework for drainage network extraction. This
     * networkx
     * richdem
 
-Before using this framework, please also download the [states](https://hkustconnect-my.sharepoint.com/:u:/g/personal/xmaoac_connect_ust_hk/EZz98s0F-MFEl5XfwbukkLUBEjrePZ868lbz81K5xksfPQ?e=hoVBwR) of the deep learning models used in this framework, and decompress the "states.zip" file followed by putting the "states" directory in the project root directory.
+Before using this framework, please also download the [states.zip](https://hkustconnect-my.sharepoint.com/:u:/g/personal/xmaoac_connect_ust_hk/EZz98s0F-MFEl5XfwbukkLUBEjrePZ868lbz81K5xksfPQ?e=hoVBwR) (the trained parameters of the deep learning model in the framework), and decompress the "states.zip" followed by putting the "states" directory in the project root directory.
 
 ### Usage
 
